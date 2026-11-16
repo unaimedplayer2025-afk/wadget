@@ -4,7 +4,8 @@ Third-person browser action game. **Wadget**, a small black alien with big glowi
 wrapped in heavy chains through time portals. Hunt five rifts across **Storm Isle** (prehistoria), the **Iron Prairie** (1885),
 **The Source Grid** (2199), and the **Void Arena** bonus, then destroy **THE OMEGA STEER** — which only appears in 2199.
 
-Play: open `index.html` from any static web server (ES modules need http, not `file://`).
+Play: **https://unaimedplayer2025-afk.github.io/wadget/**  
+or open `index.html` from any static web server (ES modules need http, not `file://`).
 
 ## Controls
 | | Desktop | Phone / tablet |
